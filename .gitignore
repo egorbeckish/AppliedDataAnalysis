@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Marimo
+__marimo__/
+
+# Titles for lectures
+title/
