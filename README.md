@@ -158,59 +158,59 @@
 		<tr>
 			<td align="center"><a href="https://vkvideo.ru/video388416394_456239588?list=ln-XFmsdtbEHzcaPSTz9I">20.10.2026</a></td>
 			<td align="center" rowspan="2">3</td>
-			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module1/BasePython/Lecture5.ipynb" rel="noopener">Знакомство с Numpy</a></td>
-			<td align="center" rowspan="4"><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module1/BasePython/homework/homework.ipynb" rel="noopener">ДЗ</a></td>
+			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module1/NumPy/Lecture5.ipynb" rel="noopener">Знакомство с Numpy</a></td>
+			<td align="center" rowspan="4">ДЗ</td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://vkvideo.ru/video388416394_456239589?list=ln-VqFWz6IzjSr0Ez5g4N">23.10.2026</a></td>
-			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module1/BasePython/Lecture6.ipynb" rel="noopener">Знакомство с Pandas</a></td>
+			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module1/Pandas/Lecture6.ipynb" rel="noopener">Знакомство с Pandas</a></td>
 		</tr>
 		<tr>
 			<td align="center">27.10.2026</td>
 			<td align="center" rowspan="2">4</td>
-			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module" rel="noopener">Визуализация данных</a></td>
+			<td>Визуализация данных</td>
 		</tr>
 		<tr>
 			<td align="center">30.10.2026</td>
-			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module" rel="noopener">Продвинутые возможности Pandas</a></td>
+			<td>Продвинутые возможности Pandas</td>
 		</tr>
 		<tr>
 			<td align="center">03.11.2026</td>
 			<td align="center" rowspan="2">5</td>
-			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module" rel="noopener">Элементы теории вероятности 1</a></td>
-			<td align="center" rowspan="6"><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module//homework/homework.ipynb" rel="noopener">ДЗ</a></td>
+			<td>Элементы теории вероятности 1</td>
+			<td align="center" rowspan="6">ДЗ</td>
 		</tr>
 		<tr>
 			<td align="center">06.11.2026</td>
-			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module" rel="noopener">Элементы теории вероятности 2</a></td>
+			<td>Элементы теории вероятности 2</td>
 		</tr>
 		<tr>
 			<td align="center">10.11.2026</td>
 			<td align="center" rowspan="2">6</td>
-			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module" rel="noopener">Элементы математической статистики 1</a></td>
+			<td>Элементы математической статистики 1</td>
 		</tr>
 		<tr>
 			<td align="center">13.11.2026</td>
-			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module" rel="noopener">Элементы математической статистики 2</a></td>
+			<td>Элементы математической статистики 2</td>
 		</tr>
 		<tr>
 			<td align="center">17.11.2026</td>
 			<td align="center" rowspan="2">7</td>
-			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module" rel="noopener">Элементы математической статистики 3</a></td>
+			<td>Элементы математической статистики 3</td>
 		</tr>
 		<tr>
 			<td align="center">20.11.2026</td>
-			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module" rel="noopener">Элементы математической статистики 4</a></td>
+			<td>Элементы математической статистики 4</td>
 		</tr>
 		<tr>
 			<td align="center">24.11.2026</td>
 			<td align="center" rowspan="2">8</td>
-			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module" rel="noopener">Разведывательный анализ данных (EDA)</a></td>
+			<td>Разведывательный анализ данных (EDA)</td>
 			<td align="center" rowspan="2"></td>
 		</tr>
 		<tr>
 			<td align="center">27.11.2026</td>
-			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module" rel="noopener">Очистка данных</a></td>
+			<td>Очистка данных</td>
 		</tr>
 	</tbody>
 	</table>
