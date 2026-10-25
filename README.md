@@ -159,7 +159,7 @@
 			<td align="center"><a href="https://vkvideo.ru/video388416394_456239588?list=ln-XFmsdtbEHzcaPSTz9I">20.10.2026</a></td>
 			<td align="center" rowspan="2">3</td>
 			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module1/BasePython/Lecture5.ipynb" rel="noopener">Знакомство с Numpy</a></td>
-			<td align="center" rowspan="4"><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module//homework/homework.ipynb" rel="noopener">ДЗ</a></td>
+			<td align="center" rowspan="4"><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module1/BasePython/homework/homework.ipynb" rel="noopener">ДЗ</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://vkvideo.ru/video388416394_456239589?list=ln-VqFWz6IzjSr0Ez5g4N">23.10.2026</a></td>
