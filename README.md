@@ -140,7 +140,7 @@
 			<td align="center" rowspan="2">1</td>
 			<td align="center" rowspan="16"><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module1/README.md">1</a></td>
 			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module1/BasePython/Lecture1.ipynb" rel="noopener">Основы языка программирования Python</a></td>
-			<td align="center" rowspan="4"><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module1/BasePython/homework/homework.ipynb" rel="noopener">ДЗ</a></td>
+			<td align="center" rowspan="4"><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module1/Homeworks/homework1.ipynb" rel="noopener">ДЗ</a></td>
 		</tr>
 		<tr>
 			<td align="center"><a href="https://vkvideo.ru/video388416394_456239584?list=ln-EUXDLt9HBSxkWx5DZI" rel="noopener">09.10.2026</a></td>
@@ -166,13 +166,13 @@
 			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module1/Pandas/Lecture6.ipynb" rel="noopener">Знакомство с Pandas</a></td>
 		</tr>
 		<tr>
-			<td align="center">27.10.2026</td>
+			<td align="center"><a href="https://vk.ru/video388416394_456239591?list=ln-X55ZjLhh6tz5yKydgK">27.10.2026</a></td>
 			<td align="center" rowspan="2">4</td>
-			<td>Визуализация данных</td>
+			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module1/EDA/Lecture6.ipynb" rel="noopener">Визуализация данных</a></td>
 		</tr>
 		<tr>
-			<td align="center">30.10.2026</td>
-			<td>Продвинутые возможности Pandas</td>
+			<td align="center"><a href="https://vk.ru/video388416394_456239592?list=ln-Ep128AbTWCBMdwZu98">30.10.2026</a></td>
+			<td><a href="https://github.com/egorbeckish/AppliedDataAnalysis/tree/main/Module1/Pandas/Lecture8.ipynb" rel="noopener">Продвинутые возможности Pandas</a></td>
 		</tr>
 		<tr>
 			<td align="center">03.11.2026</td>
